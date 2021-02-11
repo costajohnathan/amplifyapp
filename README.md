@@ -14,4 +14,4 @@ To learn and deploy my own applications
 
 ## Where
 
-More on that in this (link) [https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/]
+More on that in this [link](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
